@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://bfoot.ru/wp-content/uploads/2023/05/1706x1280_0xac120003_9992937111651741274.jpeg" alt="Project Banner" width="100%">
+  <img src="https://i.imgflip.com/1yicsm.jpg?a488496" alt="Project Banner" width="100%">
   <h1>💔 Fiduciary Fallacies</h1>
   <h3><em>A data-driven delving into dalliances and their denouements</em></h3>
   <h4>The Unspoken Code: Decoding the Psychology of Infidelity</h4>
